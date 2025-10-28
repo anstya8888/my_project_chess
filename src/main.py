@@ -1,3 +1,4 @@
+from utils import is_valid_move
 class ChessBoard:
     def __init__(self):
         self.board = [
