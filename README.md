@@ -21,7 +21,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/chess_game.git
+   git clone https://github.com/anstya8888/my_project_chess.git
    ```
 
 2. Создайте виртуальное окружение:
