@@ -27,7 +27,7 @@
 2. Создайте виртуальное окружение:
 
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # Для Linux/macOS
    venv\Scripts\activate    # Для Windows
    ```
@@ -35,9 +35,10 @@
 3. Установите зависимости:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Запуск
 
 Запустите приложение:
+python3 src/main.py
